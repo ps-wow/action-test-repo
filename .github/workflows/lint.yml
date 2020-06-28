@@ -12,4 +12,4 @@ jobs:
       - name: wow-lint
         uses: davidcraig/action-wow-lint@0.1.4
         with:
-            path-to-files: '${{ GITHUB_WORKSPACE }}/src/test.lua'
+            path-to-files: 'src/test.lua'
