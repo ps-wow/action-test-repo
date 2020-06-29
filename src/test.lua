@@ -124,7 +124,7 @@ function Core:GetProfile()
         Transmog = true,
         FoodIsJunk = true,
         EverythingIsJunk = false,
-        ShowExpansionNumbers = true,
+        ShowExpansionNumbers = true.
         ShowExpansionIcons = false
     }
 end
